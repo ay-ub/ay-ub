@@ -15,6 +15,7 @@ I'm a passionate Full Stack Developer with a focus on **MERN** and **PERN** stac
 - **Database**: PostgreSQL , mysql , mongodb
 - **Mobile Development**: React Native, Expo
 - **Dev Tools**: Vite, pnpm, Git, GitHub
+- **Other**: C lang, Java, Data structures, Algorithms 
 
 <!--## 🚀 Projects-->
 
