@@ -37,7 +37,10 @@ I'm a passionate Full Stack Developer with a focus on **MERN** and **PERN** stac
 - [LinkedIn](https://www.linkedin.com/in/ayyoubhadjyoucef)
 - [Facebook](https://web.facebook.com/ayyoubhadjyoucef)
 - [Personal Website](https://ayyoub.vercel.app/)
-
+## Follow Me
+- [Youtube](https://www.youtube.com/@DZ-Quick-Code)
+- [TikTok](https://www.tiktok.com/@quick.code)
+- [instagram](https://www.instagram.com/quickcode1/)
 ## 💡 Fun Fact
 
 I'm a lifelong learner who enjoys solving puzzles and challenging myself with new and exciting problems!
