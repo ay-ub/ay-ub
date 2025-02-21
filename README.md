@@ -34,7 +34,7 @@ I'm a passionate Full Stack Developer with a focus on **MERN** and **PERN** stac
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ayyoubhadjyoucef)
+- [LinkedIn](https://www.linkedin.com/in/ay-ub)
 - [Facebook](https://web.facebook.com/ayyoubhadjyoucef)
 - [Personal Website](https://ayyoub.vercel.app/)
 ## Follow Me
