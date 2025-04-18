@@ -13,24 +13,9 @@ I'm a passionate Full Stack Developer with a focus on **MERN** and **PERN** stac
 - **Frontend**: React.js, Redux Toolkit, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express.js, Sequelize , php
 - **Database**: PostgreSQL , mysql , mongodb
-- **Mobile Development**: React Native, Expo
+<!--###- **Mobile Development**: React Native, Expo-->
 - **Dev Tools**: Vite, pnpm, Git, GitHub
 - **Other**: C lang, Java, Data structures, Algorithms 
-
-<!--## 🚀 Projects-->
-
-<!--### [Aceternity](https://github.com/yourusername/aceternity)-->
-<!--A full-fledged web application that offers [describe your project briefly].-->
-
-<!--### [Project 2](https://github.com/yourusername/project2)-->
-<!--Brief description of the project. This could include the tech stack, purpose, and what makes it interesting.-->
-
-<!--### [Project 3](https://github.com/yourusername/project3)-->
-<!--Another project description.-->
-
-<!--## 📈 GitHub Stats-->
-
-<!--![Ayyoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-ub&show_icons=true&theme=radical)-->
 
 ## 📫 Connect with Me
 
