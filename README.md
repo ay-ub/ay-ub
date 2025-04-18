@@ -13,9 +13,9 @@ I'm a passionate Full Stack Developer with a focus on **MERN** and **PERN** stac
 - **Frontend**: React.js, Redux Toolkit, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express.js, Sequelize , php
 - **Database**: PostgreSQL , mysql , mongodb
-<!--###- **Mobile Development**: React Native, Expo-->
 - **Dev Tools**: Vite, pnpm, Git, GitHub
 - **Other**: C lang, Java, Data structures, Algorithms 
+<!--###- **Mobile Development**: React Native, Expo-->
 
 ## 📫 Connect with Me
 
